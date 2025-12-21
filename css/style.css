@@ -209,7 +209,7 @@ header {
   padding-bottom: 170px;
 }
 .bannerSlider .carousel-item img {
-  max-height: 100vh;
+  max-height: 100vh !important;
 }
 .bannerSlider .carousel-indicators {
   bottom: 40px;
